@@ -12,7 +12,7 @@ import { QRCodeGenerator } from './QRCodeGenerator';
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from './ui/table';
 import { Alert, AlertDescription, AlertTitle } from './ui/alert';
 import { LevelVerificationDialog } from './LevelVerificationDialog';
-import clubLogo from 'figma:asset/ade13b6fb51eb9b3ff7200cf4269cebe703dd1ea.png';
+const clubLogo = "https://placehold.co/400x400?text=UTM+Mandarin+Club";
 
 interface TutorDashboardProps {
   user: any;
