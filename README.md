@@ -1,7 +1,7 @@
 
-  # KBM Corner (latest)
+  # KBM Corner
 
-  This is a code bundle for KBM Corner (latest). The original project is available at https://www.figma.com/design/UKJDyLda2FUErmNXKQK9nu/KBM-Corner--latest-.
+  This is a code bundle for KBM Corner.
 
   ## Running the code
 
